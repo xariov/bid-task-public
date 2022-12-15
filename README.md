@@ -1,1 +1,1 @@
-# bid-task
+Temporary hosting of BID task.
